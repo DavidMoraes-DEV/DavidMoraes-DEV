@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/DavidMoraes-DEV">
-  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMoraes-DEV&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMoraes-DEV&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMoraes-DEV&hide_border=true&layout=compact&langs_count=16&theme=github_dark" alt="github stats" />
 </div>
 
