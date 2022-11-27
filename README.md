@@ -21,5 +21,5 @@
 	
   ##
   
-  ![Contributions](https://activity-graph.herokuapp.com/graph?username=DavidMoraes-DEV&theme=github-dark&custom_title=Minha%20Atividade%20Diária:&hide_border=true&area=true)
+  ![Contributions](https://activity-graph.herokuapp.com/graph?username=DavidMoraes-DEV&theme=github-dark&custom_title=Minha%20Atividade%20Recente:&hide_border=true&area=true)
   
