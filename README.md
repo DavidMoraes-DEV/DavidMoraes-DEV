@@ -1,9 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=25&duration=7000&pause=1000&color=CED7DFE4&background=FFFFFF00&width=600&lines=Analisando...;Projetando...;Codificando...;Testando...;Bugando...+%F0%9F%98%A8%F0%9F%A5%B6%F0%9F%A4%94;Analisando...;Refatorando...+%F0%9F%A7%90%F0%9F%A4%93%F0%9F%A4%AD;Testando...;TESTS+SUCCESS!!!+%F0%9F%A4%AF%F0%9F%A4%AF%F0%9F%A4%AF;Implantando...;BUILD+SUCCESS!!!+%E2%98%95%E2%98%95%F0%9F%98%8E)](https://git.io/typing-svg)
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/DavidMoraes-DEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMoraes-DEV&show_icons=true&hide_border=true&theme=github_dark&locale=pt-BR&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMoraes-DEV&hide_border=true&layout=compact&langs_count=16&theme=github_dark" alt="github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidMoraes-DEV&hide=issues,contribs&show_icons=true&hide_border=true&theme=github_dark&locale=pt-BR&count_private=true&include_all_commits=true" />
+  <img height="160em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMoraes-DEV&hide_border=true&layout=compact&langs_count=9&theme=github_dark&hide=c%23&locale=pt-BR" alt="github stats" />
 </div>
 
 ## <img align="center" height="60" alt="David-JAVA" height="29" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" /> Principais Tecnologias que utilizo nos meus projetos: 
