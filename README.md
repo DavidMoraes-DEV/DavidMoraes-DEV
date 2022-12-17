@@ -3,7 +3,7 @@
 <div style="display: flex">
   <a href="https://github.com/DavidMoraes-DEV">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidMoraes-DEV&hide=issues,contribs&show_icons=true&hide_border=true&theme=github_dark&locale=pt-BR&count_private=true&include_all_commits=true" />
-  <img height="160em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMoraes-DEV&hide_border=true&layout=compact&langs_count=9&theme=github_dark&hide=c%23&locale=pt-BR" alt="github stats" />
+  <img height="140em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMoraes-DEV&hide_border=true&layout=compact&langs_count=9&theme=github_dark&hide=c%23&locale=pt-BR" alt="github stats" />
 </div>
 
 ## <img align="center" height="60" alt="David-JAVA" height="29" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" /> Principais Tecnologias que utilizo nos meus projetos: 
